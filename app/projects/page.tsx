@@ -21,7 +21,7 @@ const PROJECTS = [
     title: "Personal Portfolio",
     description: "This minimal portfolio site built with Next.js 14, TypeScript, and Tailwind.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
-    href: "https://github.com/mastershifu24/fastbreak-portfolio",
+    href: "https://github.com/mastershifu24/NextJS-project",
   },
 ];
 

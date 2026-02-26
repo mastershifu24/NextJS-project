@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000).
 2. Go to [vercel.com](https://vercel.com) and sign in with GitHub.
 3. Click **Add New** → **Project** and import this repository.
 4. Leave build settings as default (`npm run build`, output: Next.js).
-5. Click **Deploy**. Your site will be live at `https://your-project.vercel.app`.
+5. Click **Deploy**. Your site will be live at `[https://your-project.vercel.app](https://ahmed-shifa.vercel.app/)`.
 
 ## Customize
 

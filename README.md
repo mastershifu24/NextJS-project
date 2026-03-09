@@ -5,7 +5,7 @@ February 2026.
 
 ## Pages
 
-- **Home** – Hero with name, title (Full Stack Engineer), and short bio
+- **Home** – Hero with name, title (Data Engineer), and short bio
 - **Projects** – Grid of 3 project cards (title, description, tags, GitHub link)
 - **Contact** – Email link and LinkedIn / GitHub icons
 

@@ -11,10 +11,10 @@ export default function HomePage() {
           Ahmed Shifa
         </h1>
         <p className="mt-3 text-xl text-neutral-600 dark:text-neutral-300 sm:text-2xl">
-          Full Stack Engineer
+          Data Engineer
         </p>
         <p className="mx-auto mt-6 max-w-xl text-base text-neutral-500 dark:text-neutral-400 sm:text-lg">
-          I build reliable, scalable applications from frontend to backend and love turning ideas into production-ready software.
+          I build reliable data pipelines and analytics solutions, from ETL to insights, and love turning raw data into production-ready systems.
         </p>
         <div className="mt-10 flex flex-wrap justify-center gap-4">
           <Link

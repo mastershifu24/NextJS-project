@@ -4,8 +4,8 @@ import ThemeToggle from "@/components/ThemeToggle";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Ahmed Shifa | Full Stack Engineer",
-  description: "Personal portfolio of Ahmed Shifa, Full Stack Engineer.",
+  title: "Ahmed Shifa | Data Engineer",
+  description: "Personal portfolio of Ahmed Shifa, Data Engineer.",
 };
 
 export default function RootLayout({
